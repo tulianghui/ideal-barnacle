@@ -10,6 +10,6 @@ public class main{
 		String name = "xx";
 		String title = "y0";
 		
-		
+		//has fixed bug101
 	}
 }
