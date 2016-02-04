@@ -6,5 +6,6 @@ public class main{
 		
 		int master = 0;
 		int dev_no_off = 1;
+		String name = "xx";
 	}
 }
