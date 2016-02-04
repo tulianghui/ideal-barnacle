@@ -5,5 +5,6 @@ public class main{
 		int dev = 0;
 		
 		int master = 0;
+		int dev_no_off = 1;
 	}
 }
