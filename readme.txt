@@ -5,3 +5,4 @@ Git tracks changes of files1.
 boss
 hello github
 dev branck
+Creating a new branch is quick & simple.
